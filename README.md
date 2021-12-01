@@ -8,3 +8,4 @@
 ![Service account](images/serviceaccount.png)
 * Service account key created as JSON, download and set secrets in Github repo's setting
 ![Service account keys](images/serviceaccountkey.png)
+* Craete new workflow for GKE
